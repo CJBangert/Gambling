@@ -63,36 +63,48 @@ def scrape_log_url():
 
 
 
-def scrape_game_log_data():
+def scrape_game_log_data(year):
 
 	linkParts = scrape_log_url()
 
+	teams = ["Boston", "Brooklyn", "New-York", "Philidelphia","Toronto", "Chicago", "Cleveland", "Detroit", "Indiana", "Milwaukee", "Atlanta", "Charlotte", "Miami", "Orlando", "Washington", "Denver", "Minnesota", "Oklahoma-City", "Portland", "Utah", "Golden-State", "LA-Clippers", "LA-Lakers", "Phoenix", "Sacemento", "Dallas", "Houston", "Memphis", "New-Orleans", "San-Antonio" ]
+
 	headers = getLogHeaders('https://www.oddsshark.com/nba/game-logs')
 
-	#for x in linkParts:
+	f = open("page.html","w+")
 
-	url = "https://www.oddsshark.com/" + linkParts[0]
+	count = 0
 
-	res = requests.get(url, headers)
+	for x in linkParts:
 
-	soup = BeautifulSoup(res.content,'lxml')
+		url = "https://www.oddsshark.com/" + x + "/" + year
 
-	table = soup.find_all('table')[0]
+		res = requests.get(url, headers)
 
-	df = pd.read_html(str(table))
+		soup = BeautifulSoup(res.content,'lxml')
 
-	print(df)
+		table = soup.find_all('table')[0]
 
-	# f = open("page.html","w+")
+		df = pd.read_html(str(table))
 
-	# f.write("%s" % res.content)
+		path = "../Data/Game-Logs/" + year + "/" + teams[count] + ".csv"
 
-	# f.close()
-
-
+		df.to_csv(r'' + path)
 
 
-scrape_game_log_data()
+	
+
+
+
+def scrape_all_years():
+
+	years = ["2016", "2017", "2018", "2019"]
+
+	for x in years:
+
+		scrape_game_log_data(x)
+
+
 
 
 # table = soup.find('div', attrs = {'id':'block-system-main'}) 
