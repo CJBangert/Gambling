@@ -1,0 +1,83 @@
+Date,Opponent,Game,Result,Score,ATS,Spread,OU,Total
+"Oct 17, 2018",@ Toronto,REG,L,116-104,W,12.5,O,215.0
+"Oct 19, 2018",@ Minnesota,REG,L,131-123,W,8.5,O,222.0
+"Oct 21, 2018",vs Atlanta,REG,L,133-111,L,-8.0,O,232.5
+"Oct 24, 2018",vs Brooklyn,REG,L,102-86,L,-3.0,U,226.0
+"Oct 25, 2018",@ Detroit,REG,L,110-103,W,9.5,U,216.5
+"Oct 27, 2018",vs Indiana,REG,L,119-107,L,7.0,O,213.5
+"Oct 30, 2018",vs Atlanta,REG,W,136-114,W,-4.5,O,227.0
+"Nov 1, 2018",vs Denver,REG,L,110-91,L,5.0,U,218.5
+"Nov 3, 2018",@ Charlotte,REG,L,126-94,L,10.0,U,221.5
+"Nov 5, 2018",@ Orlando,REG,L,102-100,W,4.0,U,214.0
+"Nov 7, 2018",vs Oklahoma City,REG,L,95-86,L,6.0,U,216.5
+"Nov 10, 2018",@ Chicago,REG,L,99-98,W,4.5,U,212.0
+"Nov 13, 2018",vs Charlotte,REG,W,113-89,W,9.0,U,214.5
+"Nov 14, 2018",@ Washington,REG,L,119-95,L,11.5,U,216.0
+"Nov 19, 2018",@ Detroit,REG,L,113-102,L,9.5,O,213.5
+"Nov 21, 2018",vs LA Lakers,REG,L,109-105,W,9.0,U,222.0
+"Nov 23, 2018",@ Philadelphia,REG,W,121-112,W,13.0,O,217.5
+"Nov 24, 2018",vs Houston,REG,W,117-108,W,6.5,O,208.5
+"Nov 26, 2018",vs Minnesota,REG,L,102-95,L,6.0,U,214.5
+"Nov 28, 2018",@ Oklahoma City,REG,L,100-83,L,12.5,U,215.5
+"Nov 30, 2018",@ Boston,REG,L,128-95,L,12.5,O,206.5
+"Dec 1, 2018",vs Toronto,REG,L,106-95,W,12.0,U,213.0
+"Dec 3, 2018",@ Brooklyn,REG,W,99-97,W,6.0,U,210.5
+"Dec 5, 2018",vs Golden State,REG,L,129-105,L,11.0,O,219.5
+"Dec 7, 2018",vs Sacramento,REG,L,129-110,L,3.0,O,222.5
+"Dec 8, 2018",vs Washington,REG,W,116-101,W,7.5,O,216.5
+"Dec 10, 2018",@ Milwaukee,REG,L,108-92,L,10.5,U,217.0
+"Dec 12, 2018",vs New York,REG,W,113-106,W,1.5,O,214.0
+"Dec 14, 2018",vs Milwaukee,REG,L,114-102,L,9.5,U,220.0
+"Dec 16, 2018",vs Philadelphia,REG,L,128-105,L,9.0,O,218.0
+"Dec 18, 2018",@ Indiana,REG,W,92-91,W,12.5,U,207.5
+"Dec 19, 2018",@ Charlotte,REG,L,110-99,W,13.5,U,213.5
+"Dec 21, 2018",@ Toronto,REG,L,126-110,L,11.5,O,210.5
+"Dec 23, 2018",vs Chicago,REG,L,112-92,L,-1.0,O,201.5
+"Dec 26, 2018",@ Memphis,REG,L,95-87,W,9.5,U,196.5
+"Dec 28, 2018",@ Miami,REG,L,118-94,L,10.0,O,202.5
+"Dec 29, 2018",@ Atlanta,REG,L,111-108,W,4.0,U,219.5
+"Jan 2, 2019",vs Miami,REG,L,117-92,L,5.5,O,202.5
+"Jan 4, 2019",vs Utah,REG,L,117-91,L,10.0,O,207.5
+"Jan 5, 2019",vs New Orleans,REG,L,133-98,L,9.5,O,222.0
+"Jan 8, 2019",vs Indiana,REG,L,123-115,W,9.5,O,208.0
+"Jan 9, 2019",@ New Orleans,REG,L,140-124,L,15.0,O,225.0
+"Jan 11, 2019",@ Houston,REG,L,141-113,L,14.0,O,217.0
+"Jan 13, 2019",@ LA Lakers,REG,W,101-95,W,10.5,U,221.5
+"Jan 16, 2019",@ Portland,REG,L,129-112,L,14.0,O,217.0
+"Jan 18, 2019",@ Utah,REG,L,115-99,P,16.0,U,215.5
+"Jan 19, 2019",@ Denver,REG,L,124-102,L,18.5,O,219.0
+"Jan 21, 2019",vs Chicago,REG,L,104-88,L,2.5,U,213.5
+"Jan 23, 2019",@ Boston,REG,L,123-103,L,15.0,O,213.0
+"Jan 25, 2019",vs Miami,REG,L,100-94,W,8.5,U,207.5
+"Jan 27, 2019",@ Chicago,REG,W,104-101,W,4.5,U,212.0
+"Jan 29, 2019",vs Washington,REG,W,116-113,W,8.0,O,218.5
+"Feb 2, 2019",vs Dallas,REG,L,111-98,L,5.5,U,210.5
+"Feb 5, 2019",vs Boston,REG,L,103-96,W,10.5,U,210.0
+"Feb 8, 2019",@ Washington,REG,L,119-106,L,10.0,O,222.0
+"Feb 9, 2019",@ Indiana,REG,L,105-90,L,14.0,U,211.0
+"Feb 11, 2019",vs New York,REG,W,107-104,W,-1.0,O,209.0
+"Feb 13, 2019",vs Brooklyn,REG,L,148-139,L,7.5,O,225.0
+"Feb 21, 2019",vs Phoenix,REG,W,111-98,W,-1.0,U,221.0
+"Feb 23, 2019",vs Memphis,REG,W,112-107,W,-1.5,O,209.0
+"Feb 25, 2019",vs Portland,REG,L,123-110,L,9.0,O,224.5
+"Feb 28, 2019",@ New York,REG,W,125-118,W,1.5,O,221.0
+"Mar 2, 2019",vs Detroit,REG,L,129-93,L,8.0,O,214.5
+"Mar 3, 2019",vs Orlando,REG,W,107-93,W,6.0,U,214.5
+"Mar 6, 2019",@ Brooklyn,REG,L,113-107,W,9.5,U,228.0
+"Mar 8, 2019",@ Miami,REG,L,126-110,L,9.0,O,213.5
+"Mar 11, 2019",vs Toronto,REG,W,126-101,W,8.5,O,224.5
+"Mar 12, 2019",@ Philadelphia,REG,L,106-99,W,15.0,U,223.5
+"Mar 14, 2019",@ Orlando,REG,L,120-91,L,8.5,U,212.5
+"Mar 16, 2019",@ Dallas,REG,L,121-116,W,5.5,O,217.5
+"Mar 18, 2019",vs Detroit,REG,W,126-119,W,6.5,O,212.0
+"Mar 20, 2019",vs Milwaukee,REG,W,107-102,W,5.5,U,225.0
+"Mar 22, 2019",vs LA Clippers,REG,L,110-108,W,6.5,U,226.5
+"Mar 24, 2019",@ Milwaukee,REG,L,127-105,L,14.0,O,223.5
+"Mar 26, 2019",vs Boston,REG,L,116-106,L,5.5,O,216.0
+"Mar 28, 2019",@ San Antonio,REG,L,116-110,W,12.0,O,217.0
+"Mar 30, 2019",@ LA Clippers,REG,L,132-108,L,9.0,O,228.5
+"Apr 1, 2019",@ Phoenix,REG,L,122-113,L,2.0,O,224.0
+"Apr 4, 2019",@ Sacramento,REG,L,117-104,L,10.0,U,229.0
+"Apr 5, 2019",@ Golden State,REG,L,120-114,W,15.5,O,225.5
+"Apr 7, 2019",vs San Antonio,REG,L,112-90,L,8.5,U,219.0
+"Apr 9, 2019",vs Charlotte,REG,L,124-97,L,8.5,O,220.5
