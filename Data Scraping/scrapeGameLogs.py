@@ -85,11 +85,13 @@ def scrape_game_log_data(year):
 
 		table = soup.find_all('table')[0]
 
-		df = pd.read_html(str(table))
+		df = pd.read_html(str(table))[0]
 
 		path = "../Data/Game-Logs/" + year + "/" + teams[count] + ".csv"
 
-		df.to_csv(r'' + path)
+		df.to_csv(r'' + path, index = None, header=True)
+
+		count = count + 1
 
 
 	
@@ -105,7 +107,7 @@ def scrape_all_years():
 		scrape_game_log_data(x)
 
 
-
+scrape_all_years()
 
 # table = soup.find('div', attrs = {'id':'block-system-main'}) 
 
