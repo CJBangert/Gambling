@@ -107,7 +107,7 @@ def scrape_all_years():
 		scrape_game_log_data(x)
 
 
-scrape_all_years()
+#scrape_all_years()
 
 # table = soup.find('div', attrs = {'id':'block-system-main'}) 
 
